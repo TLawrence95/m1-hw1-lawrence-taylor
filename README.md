@@ -1,7 +1,7 @@
 # My First Coding Assignment
 MMC5277 Web Design Principles Assignment 1
 
-<!-- GIFLENS-https://media2.giphy.com/media/NQL7Wuo2JSQSY/200.gif -->
+![Me As a GIF](https://media.giphy.com/media/NQL7Wuo2JSQSY/giphy.gif "Me As a GIF")
 
 ## About Me
 My name is Taylor and I live in Norman, Oklahoma. I was born and raised in Fort Worth, Texas but came to Oklahoma in 2014 to attend college at the University of Oklahoma, met my (now) husband, and never left! I love reading, music, and taking my puppy, Oliver, on walks. Fun fact: I love 5Ks and I plan to do one every month this year!
